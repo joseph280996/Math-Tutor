@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\Math_Tutor_Group_JEE\Math_Tutor_Group_JEE\Math_Tutor_Group_JEE.cpp">
+    <ClCompile Include="MathTutor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
